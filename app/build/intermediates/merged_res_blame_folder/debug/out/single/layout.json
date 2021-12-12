@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\splash_screen.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_favorites.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\trip_items.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\trip_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_contact.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_trip.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\activity_view_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_new_trip.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\activity_new_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    }
+]

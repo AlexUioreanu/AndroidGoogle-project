@@ -1,0 +1,64 @@
+com/example/travel4/ui/slideshow/SlideshowViewModel.java
+ com.example.travel4.ui.slideshow.SlideshowViewModel
+com/example/travel4/dialog/AddUrl.java
+ com.example.travel4.dialog.AddUrl
+ com.example.travel4.dialog.AddUrl$1
+ com.example.travel4.dialog.AddUrl$2
+ com.example.travel4.dialog.AddUrl$TripDialogListener
+com/example/travel4/ui/gallery/GalleryViewModel.java
+ com.example.travel4.ui.gallery.GalleryViewModel
+com/example/travel4/ui/gallery/GalleryFragment.java
+ com.example.travel4.ui.gallery.GalleryFragment
+ com.example.travel4.ui.gallery.GalleryFragment$1
+com/example/travel4/databinding/FragmentHomeBinding.java
+ com.example.travel4.databinding.FragmentHomeBinding
+com/example/travel4/model/TripDataBase.java
+ com.example.travel4.model.TripDataBase
+com/example/travel4/databinding/DialogBinding.java
+ com.example.travel4.databinding.DialogBinding
+com/example/travel4/databinding/ActivityNewTripBinding.java
+ com.example.travel4.databinding.ActivityNewTripBinding
+com/example/travel4/model/Trip.java
+ com.example.travel4.model.Trip
+com/example/travel4/adapter/TripAdapter.java
+ com.example.travel4.adapter.TripAdapter
+com/example/travel4/MainActivity.java
+ com.example.travel4.MainActivity
+ com.example.travel4.MainActivity$1
+com/example/travel4/AddTripActivity.java
+ com.example.travel4.AddTripActivity
+ com.example.travel4.AddTripActivity$1
+ com.example.travel4.AddTripActivity$2
+ com.example.travel4.AddTripActivity$3
+ com.example.travel4.AddTripActivity$4
+ com.example.travel4.AddTripActivity$5
+com/example/travel4/ui/home/HomeViewModel.java
+ com.example.travel4.ui.home.HomeViewModel
+com/example/travel4/ui/slideshow/SlideshowFragment.java
+ com.example.travel4.ui.slideshow.SlideshowFragment
+ com.example.travel4.ui.slideshow.SlideshowFragment$1
+com/example/travel4/databinding/NavHeaderMainBinding.java
+ com.example.travel4.databinding.NavHeaderMainBinding
+com/example/travel4/databinding/TripItemsBinding.java
+ com.example.travel4.databinding.TripItemsBinding
+com/example/travel4/databinding/ContentMainBinding.java
+ com.example.travel4.databinding.ContentMainBinding
+com/example/travel4/databinding/ActivityMainBinding.java
+ com.example.travel4.databinding.ActivityMainBinding
+com/example/travel4/databinding/AppBarMainBinding.java
+ com.example.travel4.databinding.AppBarMainBinding
+com/example/travel4/model/TripDao.java
+ com.example.travel4.model.TripDao
+com/example/travel4/adapter/TripViewHolder.java
+ com.example.travel4.adapter.TripViewHolder
+com/example/travel4/BuildConfig.java
+ com.example.travel4.BuildConfig
+com/example/travel4/ViewTripActivity.java
+ com.example.travel4.ViewTripActivity
+com/example/travel4/databinding/FragmentSlideshowBinding.java
+ com.example.travel4.databinding.FragmentSlideshowBinding
+com/example/travel4/ui/home/HomeFragment.java
+ com.example.travel4.ui.home.HomeFragment
+ com.example.travel4.ui.home.HomeFragment$1
+com/example/travel4/databinding/FragmentGalleryBinding.java
+ com.example.travel4.databinding.FragmentGalleryBinding

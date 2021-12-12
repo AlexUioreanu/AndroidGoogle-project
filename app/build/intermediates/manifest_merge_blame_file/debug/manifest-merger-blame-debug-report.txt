@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.travel4"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+15-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:9:22-78
+16
+17    <application
+17-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:11:5-44:19
+18        android:allowBackup="true"
+18-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:12:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] C:\Users\Alex\.gradle\caches\transforms-3\ce17f61a69df609c5d26601ad38b1c42\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher_foreground"
+22-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:13:9-54
+23        android:label="TravelJournal"
+23-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:14:9-38
+24        android:roundIcon="@mipmap/ic_launcher_foreground"
+24-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:15:9-59
+25        android:supportsRtl="true"
+25-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:16:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.Travel4" >
+27-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:17:9-45
+28
+29        <!-- <activity android:name=".MainActivity"  android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" /> -->
+30        <activity
+30-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:19:9-20:93
+31            android:name="com.example.travel4.MainActivity"
+31-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:20:13-41
+32            android:theme="@style/Theme.Travel4.NoActionBar" />
+32-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:20:42-90
+33        <activity
+33-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:22:9-32:20
+34            android:name="com.example.travel4.SplashsActivity"
+34-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:23:13-44
+35            android:exported="true"
+35-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:24:13-36
+36            android:label="TravelJournal" >
+36-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:25:13-42
+37            <intent-filter>
+37-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:27:13-31:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:28:17-69
+38-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:28:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:30:17-77
+40-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:30:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.example.travel4.AddTripActivity" />
+43-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:37:9-53
+43-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:37:19-50
+44        <activity android:name="com.example.travel4.ViewTripActivity" />
+44-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:38:9-54
+44-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:38:19-51
+45
+46        <meta-data
+46-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:40:9-42:57
+47            android:name="preloaded_fonts"
+47-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:41:13-43
+48            android:resource="@array/preloaded_fonts" />
+48-->C:\Users\Alex\Desktop\Travel4\app\src\main\AndroidManifest.xml:42:13-54
+49
+50        <service
+50-->[androidx.room:room-runtime:2.3.0] C:\Users\Alex\.gradle\caches\transforms-3\7439eb3eb1cf11c3c54a32b0ff98f0fb\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+51            android:name="androidx.room.MultiInstanceInvalidationService"
+51-->[androidx.room:room-runtime:2.3.0] C:\Users\Alex\.gradle\caches\transforms-3\7439eb3eb1cf11c3c54a32b0ff98f0fb\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+52            android:directBootAware="true"
+52-->[androidx.room:room-runtime:2.3.0] C:\Users\Alex\.gradle\caches\transforms-3\7439eb3eb1cf11c3c54a32b0ff98f0fb\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+53            android:exported="false" />
+53-->[androidx.room:room-runtime:2.3.0] C:\Users\Alex\.gradle\caches\transforms-3\7439eb3eb1cf11c3c54a32b0ff98f0fb\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+54
+55        <provider
+55-->[com.squareup.picasso:picasso:2.71828] C:\Users\Alex\.gradle\caches\transforms-3\e3881cf9eb1d6ebb28c63d4e797102a0\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+56            android:name="com.squareup.picasso.PicassoProvider"
+56-->[com.squareup.picasso:picasso:2.71828] C:\Users\Alex\.gradle\caches\transforms-3\e3881cf9eb1d6ebb28c63d4e797102a0\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+57            android:authorities="com.example.travel4.com.squareup.picasso"
+57-->[com.squareup.picasso:picasso:2.71828] C:\Users\Alex\.gradle\caches\transforms-3\e3881cf9eb1d6ebb28c63d4e797102a0\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+58            android:exported="false" />
+58-->[com.squareup.picasso:picasso:2.71828] C:\Users\Alex\.gradle\caches\transforms-3\e3881cf9eb1d6ebb28c63d4e797102a0\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+59        <provider
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alex\.gradle\caches\transforms-3\47242d187ad0b82aaa2c14142f62520e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alex\.gradle\caches\transforms-3\47242d187ad0b82aaa2c14142f62520e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+61            android:authorities="com.example.travel4.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alex\.gradle\caches\transforms-3\47242d187ad0b82aaa2c14142f62520e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alex\.gradle\caches\transforms-3\47242d187ad0b82aaa2c14142f62520e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alex\.gradle\caches\transforms-3\47242d187ad0b82aaa2c14142f62520e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alex\.gradle\caches\transforms-3\47242d187ad0b82aaa2c14142f62520e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alex\.gradle\caches\transforms-3\47242d187ad0b82aaa2c14142f62520e\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alex\.gradle\caches\transforms-3\7026dae3ba19198b4a097aea3312ebbe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alex\.gradle\caches\transforms-3\7026dae3ba19198b4a097aea3312ebbe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alex\.gradle\caches\transforms-3\7026dae3ba19198b4a097aea3312ebbe\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+69        </provider>
+70    </application>
+71
+72</manifest>

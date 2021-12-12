@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/gradient">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        app:cardCornerRadius="8dp"
+        android:elevation="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/tripPicView"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:padding="8dp"
+                android:src="@drawable/ic_baseline_photo_24" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="16dp" >
+
+                <TextView
+                    android:id="@+id/trip_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/medium_margin"
+                    android:fontFamily="@font/henny_penny"
+                    android:text="@string/trip_name"
+                    android:textAppearance="?attr/textAppearanceHeadline6"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_outline_map_24"/>
+
+                <TextView
+                    android:id="@+id/trip_destination"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/trip_name"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:drawablePadding="@dimen/medium_margin"
+                    android:fontFamily="@font/henny_penny"
+                    android:text="@string/destination"
+                    android:textColor="?android:attr/textColorSecondary"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_outline_location_on_24" />
+
+                <View
+                    android:id="@+id/view_trip_hr"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/hr_size"
+                    android:layout_below="@id/trip_destination"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:layout_marginBottom="@dimen/small_margin"
+                    android:background="@color/gray_700"
+                    />
+
+                <TextView
+                    android:id="@+id/trip_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/view_trip_hr"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:drawablePadding="@dimen/medium_margin"
+                    android:fontFamily="@font/henny_penny"
+                    android:text="@string/price_eur"
+                    android:textColor="?android:attr/textColorSecondary"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_outline_monetization_on_24"
+                     />
+
+                <TextView
+                    android:id="@+id/trip_type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/trip_price"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:drawablePadding="@dimen/medium_margin"
+                    android:fontFamily="@font/henny_penny"
+                    android:text="@string/trip_type"
+                    android:textColor="?android:attr/textColorSecondary"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_outline_category_24"/>
+
+                <TextView
+                    android:id="@+id/trip_start_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/trip_type"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:drawablePadding="@dimen/medium_margin"
+                    android:fontFamily="@font/henny_penny"
+                    android:text="@string/start_date"
+                    android:textColor="?android:attr/textColorSecondary"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_outline_today_24"/>
+
+                <TextView
+                    android:id="@+id/trip_end_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/trip_start_date"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:drawablePadding="@dimen/medium_margin"
+                    android:text="@string/end_date"
+                    android:textColor="?android:attr/textColorSecondary"
+                    android:fontFamily="@font/henny_penny"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_outline_date_range_24"
+                    />
+
+                <TextView
+                    android:id="@+id/trip_rating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/trip_end_date"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:drawablePadding="@dimen/medium_margin"
+                    android:text="@string/rating"
+                    android:textColor="?android:attr/textColorSecondary"
+                    app:drawableLeftCompat="@drawable/ic_baseline_star_outline_24"
+                    android:fontFamily="@font/henny_penny"
+                    android:textStyle="bold"/>
+
+                <ImageButton
+                    android:id="@+id/button_favoriteView"
+                    android:layout_width="48dp"
+                    android:clickable="false"
+                    android:layout_height="56dp"
+                    android:layout_alignParentEnd="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="@string/favorite_button"
+                    android:src="@drawable/ic_baseline_star_outline_24"
+                    app:tint="@color/yellow_500" />
+
+                <View
+                    android:id="@+id/view_trip_hr_secondary"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/hr_size"
+                    android:layout_below="@id/trip_rating"
+                    android:layout_marginTop="@dimen/small_margin"
+                    android:layout_marginBottom="@dimen/small_margin"
+                    android:background="@color/gray_700" />
+
+                <TextView
+                    android:id="@+id/weather_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/view_trip_hr_secondary"
+                    android:gravity="center"
+                    android:text="@string/loading_weather"
+                    android:textSize="20sp"
+                    android:fontFamily="@font/henny_penny"
+                    android:textStyle="bold" />
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:id="@+id/weather_layout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@id/weather_title"
+                    android:layout_marginTop="-5dp"
+                    android:visibility="invisible">
+
+                    <ImageView
+                        android:id="@+id/weather_icon"
+                        android:layout_width="87dp"
+                        android:layout_height="97dp"
+                        android:layout_marginStart="16dp"
+                        android:layout_marginTop="16dp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:id="@+id/weather_now_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="36dp"
+                        android:text="now"
+
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toEndOf="@+id/weather_icon"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.276"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/weather_min_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="44dp"
+                        android:text="min"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toEndOf="@+id/weather_now_label"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.276"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/weather_max_label"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="48dp"
+                        android:text="max"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toEndOf="@+id/weather_min_label"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.276"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/weather_now"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="36dp"
+                        android:text="4°"
+                        app:layout_constraintBottom_toTopOf="@+id/weather_now_label"
+                        app:layout_constraintStart_toEndOf="@+id/weather_icon"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="1.0"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/weather_max"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="48dp"
+                        android:text="4°"
+                        app:layout_constraintBottom_toTopOf="@+id/weather_max_label"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.148"
+                        app:layout_constraintStart_toEndOf="@+id/weather_min"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="1.0"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/weather_min"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="56dp"
+                        android:text="4°"
+                        app:layout_constraintBottom_toTopOf="@+id/weather_min_label"
+                        app:layout_constraintStart_toEndOf="@+id/weather_now"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="1.0"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/weather_wind"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="24dp"
+                        android:layout_marginTop="16dp"
+                        android:drawablePadding="@dimen/medium_margin"
+                        android:text="7.2 m/s"
+                        app:drawableLeftCompat="@drawable/ic_outline_waves_24"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="@id/weather_clouds"
+                        app:layout_constraintHorizontal_bias="0.054"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.811"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/weather_clouds"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawablePadding="@dimen/medium_margin"
+                        android:text="7.2%"
+                        app:drawableLeftCompat="@drawable/ic_outline_cloud_24"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.226"
+                        app:layout_constraintStart_toEndOf="@+id/weather_wind"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.839"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+
+                    <TextView
+                        android:id="@+id/weather_humidity"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawablePadding="@dimen/medium_margin"
+                        android:text="7.2%"
+                        app:drawableLeftCompat="@drawable/ic_outline_invert_colors_24"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="0.584"
+                        app:layout_constraintStart_toEndOf="@+id/weather_clouds"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintVertical_bias="0.839"
+                        android:fontFamily="@font/henny_penny"
+                        android:textStyle="bold"/>
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

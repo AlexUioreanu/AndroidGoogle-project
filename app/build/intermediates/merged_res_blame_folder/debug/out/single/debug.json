@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screenv3_foregroundv544.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screenv3_foregroundv544.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icon.bmp.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\icon.bmp"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screenv3_foreground.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screenv3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screenv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screenv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screenv3_foregroundv545.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screenv3_foregroundv545.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_invert_colors_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_invert_colors_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screen_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screen_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_adjust_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_adjust_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_splash_screen_front.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\splash_screen_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_linkedin_logo.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\linkedin_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_poza_user_edit.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\poza_user_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_wb_sunny.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_wb_sunny.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_email_icon.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screenv3_foreground.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screenv3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_splash_screen_front.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\splash_screen_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_today_24v2.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_today_24v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screenv2_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screenv2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screenv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screenv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screen_foregroundv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screen_foregroundv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screenv3_foregroundv544.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screenv3_foregroundv544.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\font_petit_formal_script.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\font\\petit_formal_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_share_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_info_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_travel_background.jpg.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\travel_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screenv3.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screenv3.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screenv3_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screenv3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_poza_user_edit.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\poza_user_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screenv3_foregroundv545_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screenv3_foregroundv545_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_location_on_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_splash_screen.jpg.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\splash_screen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screenv3_foregroundv545.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screenv3_foregroundv545.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_github_icon.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\github_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screen_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screen_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screenv3_foreground.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screenv3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screenv3_foregroundv545.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screenv3_foregroundv545.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_contact.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\raw_contactsss.json.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\raw\\contactsss.json"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screenv3_foreground.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screenv3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_favorites.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_view_trip.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\activity_view_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\font_alex_brush.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\font\\alex_brush.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_splash_screen.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_splash_screenv3_round.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_splash_screenv3_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_trip_items.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\trip_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screenv3_foregroundv544.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screenv3_foregroundv544.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_splash_screen_round.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_splash_screen_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_map_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_map_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_splash_screenv2.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_splash_screenv2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screenv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screenv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screen_foregroundv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screen_foregroundv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\font_akronim.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\font\\akronim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screenv3_foregroundv545.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screenv3_foregroundv545.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screenv3_foregroundv544.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screenv3_foregroundv544.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\raw_iconspalsh.json.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\raw\\iconspalsh.json"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\raw_contact.json.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\raw\\contact.json"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_splash_screen_front.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_screen_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_cloud_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_cloud_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_landscape_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_landscape_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screenv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screenv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_twitter_icon.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\twitter_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_rounded_view.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\rounded_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\raw_aboutus.json.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\raw\\aboutus.json"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_map_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_map_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screenv3_foregroundv544.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screenv3_foregroundv544.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_location_city_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_location_city_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_waves_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_waves_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_waves_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_waves_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_splash_screenv3_background545.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_launcher_splash_screenv3_background545.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_date_range_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_date_range_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screenv3_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screenv3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screenv2_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screenv2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screenv3_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screenv3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_today_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_outline_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_today_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_baseline_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_date_range_24v2.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_date_range_24v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_new_trip.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\activity_new_trip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_photo_library_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_photo_library_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screenv3_foregroundv545_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screenv3_foregroundv545_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screen_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screen_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screenv3.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screenv3.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\font_henny_penny.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\font\\henny_penny.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screenv2_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screenv2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_house_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_house_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_baseline_mail_outline_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_baseline_mail_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screenv3_foregroundv545.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screenv3_foregroundv545.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\raw_iconsplashultimate.json.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\raw\\iconsplashultimate.json"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_splash_screen_front.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\splash_screen_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screen_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screen_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screenv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screenv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screen_foregroundv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screen_foregroundv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_category_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_outline_category_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screenv3.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screenv3.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_splash_screenv3.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_splash_screenv3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_splash_screenv3_foregroundv545_round.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_splash_screenv3_foregroundv545_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_poza_user_edit.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\poza_user_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screenv3.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screenv3.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screenv3.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screenv3.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screenv3_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screenv3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_star_outline_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_star_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_outline_monetization_on_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\ic_outline_monetization_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_splash_screen_foregroundv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_splash_screen_foregroundv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_splash_screen_front.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash_screen_front.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screenv3_foregroundv545_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screenv3_foregroundv545_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_snowflake.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\snowflake.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_splash_screenv3_foregroundv545.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_splash_screenv3_foregroundv545.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_poza_user_edit.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\poza_user_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_save_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_outline_save_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_poza_user_edit.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xhdpi\\poza_user_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_city.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\city.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\raw_contacttt.json.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\raw\\contacttt.json"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screenv2_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screenv2_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_splash_screenv2_round.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_splash_screenv2_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screenv3_foregroundv545_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screenv3_foregroundv545_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screenv3_foreground.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screenv3_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screen_foregroundv2.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screen_foregroundv2.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_splash_screen_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_splash_screen_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screenv3_foregroundv545_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screenv3_foregroundv545_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\anim_top_wave.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\anim\\top_wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_poza_user.jpg.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable-v24\\poza_user.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_splash_screen.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_splash_screenv3_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_splash_screenv3_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_outline_delete_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_outline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_photo_24.xml.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\drawable\\ic_baseline_photo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_splash_screenv2_round.png.flat",
+        "source": "C:\\Users\\Alex\\Desktop\\Travel4\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_splash_screenv2_round.png"
+    }
+]
